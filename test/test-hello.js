@@ -1,5 +1,5 @@
 var assert = require('assert');
-var Hello = require('./lib/hello');
+var Hello = require('../lib/hello');
 
 var myHello = new Hello();
 
