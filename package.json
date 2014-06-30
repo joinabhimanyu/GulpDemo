@@ -1,0 +1,24 @@
+{
+  "name": "GulpDemo",
+  "version": "0.0.0",
+  "description": "A demo app for gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "task",
+    "runner"
+  ],
+  "author": "abhimanyu",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "~4.4.5",
+    "gulp": "~3.8.5",
+    "gulp-rename": "~1.2.0",
+    "gulp-ruby-sass": "~0.5.0",
+    "gulp-minify-css": "~0.3.6",
+    "gulp-autoprefixer": "0.0.7"
+  }
+}
