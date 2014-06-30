@@ -56,3 +56,7 @@ Step 11:
 change the style in styles.scss and see the corresponding css files getting generated and reload the page.
 
 
+Codeship status image:
+
+[ ![Codeship Status for joinabhimanyu/GulpDemo](https://www.codeship.io/projects/7696bc80-e246-0131-5932-1e7d1ef3bae4/status)](https://www.codeship.io/projects/25287)
+
