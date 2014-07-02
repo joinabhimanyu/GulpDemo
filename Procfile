@@ -1,1 +1,3 @@
 web: gulp
+
+worker: gulp
